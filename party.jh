@@ -1,0 +1,4 @@
+entity Party{
+	name String,
+country String
+	}
